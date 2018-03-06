@@ -44,13 +44,4 @@
     "amount": 8764.53423586,
     "text": "text",
     "imageURL": "http://pngimg.com/uploads/mastercard/mastercard_PNG5.png"
-  },
-  {
-    "fopID": 6,
-    "fopCode": "fop0036",
-    "fopType": "PSUEDO",
-    "cardType": "AX",
-    "amount": 3764.53586,
-    "text": null,
-    "imageURL": "https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-256.png"
   }]
