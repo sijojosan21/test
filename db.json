@@ -1,56 +1,56 @@
 [{
-    fopID: 1,
-    fopCode: 'fop0001',
-    fopType: 'CC',
-    cardType: 'MC',
-    amount: .5,
-    text: "text",
-    imageURL: 'http://www.paymentscardsandmobile.com/wp-content/uploads/2016/06/Visa-icon-479x336.jpg'
+    "fopID": 1,
+    "fopCode": "fop0001",
+    "fopType": "CC",
+    "cardType": "MC",
+    "amount": 0.5,
+    "text": "text",
+    "imageURL": "http://www.paymentscardsandmobile.com/wp-content/uploads/2016/06/Visa-icon-479x336.jpg"
 
   },
   {
-    fopID: 2,
-    fopCode: 'fop0002',
-    fopType: 'DC',
-    cardType: 'VI',
-    amount: 8764.53423586,
-    text: "text",
-    imageURL: 'http://pngimg.com/uploads/mastercard/mastercard_PNG5.png'
+    "fopID": 2,
+    "fopCode": "fop0002",
+    "fopType": "DC",
+    "cardType": "VI",
+    "amount": 8764.53423586,
+    "text": "text",
+    "imageURL": "http://pngimg.com/uploads/mastercard/mastercard_PNG5.png"
 
   },
   {
-    fopID: 3,
-    fopCode: 'fop0003',
-    fopType: 'SUCC',
-    cardType: 'AX',
-    amount: 3764.53586,
-    text: "text",
-    imageURL: 'https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-256.png'
+    "fopID": 3,
+    "fopCode": "fop0003",
+    "fopType": "SUCC",
+    "cardType": "AX",
+    "amount": 3764.53586,
+    "text": "text",
+    "imageURL": "https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-256.png"
 
   }, {
-    fopID: 4,
-    fopCode: 'fop0016',
-    fopType: 'GAUNRANTEE',
-    cardType: 'MC',
-    amount: 22.56586,
-    text: "text",
-    imageURL: 'http://www.paymentscardsandmobile.com/wp-content/uploads/2016/06/Visa-icon-479x336.jpg'
+    "fopID": 4,
+    "fopCode": "fop0016",
+    "fopType": "GAUNRANTEE",
+    "cardType": "MC",
+    "amount": 22.56586,
+    "text": "text",
+    "imageURL": "http://www.paymentscardsandmobile.com/wp-content/uploads/2016/06/Visa-icon-479x336.jpg"
   },
   {
-    fopID: 5,
-    fopCode: 'fop0009',
-    fopType: 'CASH',
-    cardType: 'VI',
-    amount: 8764.53423586,
-    text: "text",
-    imageURL: 'http://pngimg.com/uploads/mastercard/mastercard_PNG5.png'
+    "fopID": 5,
+    "fopCode": "fop0009",
+    "fopType": "CASH",
+    "cardType": "VI",
+    "amount": 8764.53423586,
+    "text": "text",
+    "imageURL": "http"://pngimg.com/uploads/mastercard/mastercard_PNG5.png"
   },
   {
-    fopID: 6,
-    fopCode: 'fop0036',
-    fopType: 'PSUEDO',
-    cardType: 'AX',
-    amount: 3764.53586,
-    text: null,
-    imageURL: 'https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-256.png'
+    "fopID: 6,
+    "fopCode: "fop0036",
+    "fopType": "PSUEDO",
+    "cardType: "AX",
+    "amount": 3764.53586,
+    "text": null,
+    "imageURL: "https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-256.png"
   }]
